@@ -7,10 +7,11 @@ function calculateAward (points) {
     return "Second Place";
   }
 
-  if (pints < 49){
+  if (points < 49){
     return "Participation Award";
   }  
 }
+
 
 
 
