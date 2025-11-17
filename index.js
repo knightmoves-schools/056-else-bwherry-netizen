@@ -5,12 +5,11 @@ function calculateAward (points) {
 
   if (points > 49 && points < 100){
     return "Second Place";
-  }
-
-  if (points < 49){
+  } eles {
     return "Participation Award";
-  }  
+  }
 }
+
 
 
 
